@@ -18,7 +18,6 @@ script:
   - coverage run --branch --source=. ./manage.py test --keepdb --with-xunit
   - coverage xml
   - python-codacy-coverage -r coverage.xml
-  - cosa
 notifications:
   email:
     - loprico88@gmail.com 
