@@ -19,3 +19,6 @@ script:
   - coverage xml
   - python-codacy-coverage -r coverage.xml
   - cosa
+notifications:
+  email:
+    - loprico88@gmail.com 
