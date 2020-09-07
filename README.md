@@ -6,6 +6,8 @@ TRAVIS y CODACY
 Plataforma voto electrónico educativa
 =====================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f85cdd76bdc245db9dbba0f250b02388)](https://app.codacy.com/manual/YouMarket/egc20S01?utm_source=github.com&utm_medium=referral&utm_content=YouMarket/egc20S01&utm_campaign=Badge_Grade_Dashboard)
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
