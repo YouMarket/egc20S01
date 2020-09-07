@@ -1,3 +1,6 @@
+TRAVIS y CODACY
+=====================================
+[![Build Status](https://travis-ci.com/YouMarket/egc20S01.svg?branch=master)](https://travis-ci.com/YouMarket/egc20S01)
 
 
 Plataforma voto electrónico educativa
